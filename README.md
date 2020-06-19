@@ -1,5 +1,5 @@
 # USACO-Silver-Problems
-Practice problems for USACO Silver Contest
+Practice problems for USACO Silver Contest 
 
 Each of the files will contain the following:
   1. A description on the problems including one example of the input and output.
