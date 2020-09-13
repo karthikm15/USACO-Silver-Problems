@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 using namespace std;
-struct Point {
+struct Point { 
   int cow1, cow2;
 };
 ifstream fin("gymnastics.in");
